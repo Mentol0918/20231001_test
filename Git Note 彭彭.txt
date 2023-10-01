@@ -1,3 +1,5 @@
 1.cmd 使用目錄下
-  git init
-  git status
+  git init (初始化)
+  git status (查狀態)
+  git add . (全部加入)
+  git commit -m "First commit" (記錄版本)
