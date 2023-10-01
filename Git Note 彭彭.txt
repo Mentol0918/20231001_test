@@ -7,3 +7,7 @@
   git branch（查詢branch，若為master則為主要分支）
 
 2.GitHub
+  git remote (查是否有關聯的遠端空間)
+  git remote -v
+  git remote add 遠端空間名稱(origin) address(https://github.com/Mentol0918/20231001_test.git)
+  git push origin master(上傳資料)
