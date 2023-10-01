@@ -3,3 +3,7 @@
   git status (查狀態)
   git add . (全部加入)
   git commit -m "First commit" (記錄版本)
+  git log(查詢記錄)
+  git branch（查詢branch，若為master則為主要分支）
+
+2.GitHub
